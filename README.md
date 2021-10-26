@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gkk-dev-ops
+- 🌱 I’m currently learning python,c++
+- 💞️ I’m looking to collaborate on small open source
+- 📫 How to reach me gkk-dev-ops@gmail.com
