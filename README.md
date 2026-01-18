@@ -1,6 +1,5 @@
 <div align="center">
 
-![codewars lin](https://www.codewars.com/users/gkk-dev-ops/badges/small)
 # 👋 Hi, I’m @gkk-dev-ops
 
 </div>
