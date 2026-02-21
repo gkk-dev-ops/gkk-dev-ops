@@ -68,7 +68,7 @@ Cloudflare
 
 ## 🔐 Security & Learning
 
-<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=793950" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/gkk.dev.ops.png" alt="My THM Badge" />
 
 Continuous hands-on learning in:
 - cloud security
@@ -94,10 +94,9 @@ So if you're intereseted contact me
 
 <div align="center">
 
-[Calendly]([url](https://calendly.com/kaczmarekgrzegorz11/30min))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gkk-dev-ops@gmail.com)  
+[Calendly](https://calendly.com/kaczmarekgrzegorz11/30min)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gkk-dev-ops@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grzegorz-kaczmarek/)
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=793950" style='border:none;'></iframe>
 
 
 </div>
