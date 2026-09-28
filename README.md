@@ -70,10 +70,6 @@ An experimental city-building game prototype for macOS and iPhone.
 - GCP infrastructure described with Terraform
 - local-first play with optional cross-device cloud synchronization
 
-### [rfc-cli](https://github.com/gkk-dev-ops/rfc-cli)
-
-A small Python command-line tool for reading RFCs and IETF drafts without leaving the terminal.
-
 ---
 
 ## Core toolkit
